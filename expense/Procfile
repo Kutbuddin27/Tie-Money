@@ -1,0 +1,1 @@
+web: gunicon expense.wsgi --log-file -
